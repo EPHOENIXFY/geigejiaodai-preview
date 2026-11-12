@@ -1,0 +1,16 @@
+{
+  "description": "给个交代｜Flag MVP 内测版",
+  "packOptions": { "ignore": [] },
+  "compileType": "miniprogram",
+  "appid": "wx20fb866759590375",
+  "projectname": "geigejiaodai-preview",
+  "miniprogramRoot": "miniprogram/",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": false,
+    "urlCheck": false
+  },
+  "condition": {}
+}
