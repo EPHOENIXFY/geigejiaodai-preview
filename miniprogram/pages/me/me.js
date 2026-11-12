@@ -1,0 +1,1 @@
+Page({data:{all:[]},onShow(){this.setData({all:wx.getStorageSync('flags')||[]})},open(e){wx.navigateTo({url:`/pages/detail/detail?id=${e.currentTarget.dataset.id}`})}})

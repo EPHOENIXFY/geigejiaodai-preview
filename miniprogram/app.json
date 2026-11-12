@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/create/create",
+    "pages/detail/detail",
+    "pages/result/result",
+    "pages/me/me"
+  ],
+  "window": {
+    "navigationBarTitleText": "给个交代",
+    "navigationBarBackgroundColor": "#fbfcf7",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f0f5ef"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
